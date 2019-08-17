@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/rule"
+        android:icon="@drawable/ic_rule"
+        android:title="Rules" />
+    <item
+        android:id="@+id/lod"
+        android:icon="@drawable/ic_lod"
+        android:title="List Of Devices" />
+    <item
+        android:id="@+id/recommend"
+        android:icon="@drawable/ic_recommend"
+        android:title="Recommendations" />
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/ic_feedback"
+        android:title="Feedback" />
+</menu>
